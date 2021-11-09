@@ -1,4 +1,4 @@
-# Basic Compiler Using Bison
+# C++ Compiler Using Bison
 
 This school project creates a compiler that is able to convert a high level programming language into assembly-like instructions using [Bison](https://www.gnu.org/software/bison/). Check inputs folder for code samples and its corresponding expected folder for outputs. 
 
@@ -16,7 +16,7 @@ The Procc.l flex file defines all of the tokens for lexical scanning and the Pro
 - Pre Increment
 - Decrement
 
-## Basic Parts of the Compiler
+## Parts of the Compiler
 
 This compiler runs a frontend and backend. There is no step for optimizing code.
 
