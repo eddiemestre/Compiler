@@ -1,0 +1,7 @@
+sudo: false
+os: linux
+dist: trusty
+compiler: clang
+
+script:
+  - ./travis.sh
