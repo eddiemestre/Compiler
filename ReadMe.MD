@@ -32,7 +32,7 @@ The frontend consists of the following:
 - Instruction Scheduling
 
 
-Part of the ITP435 Curriculum at the University of Southern Califorina.
+Part of the ITP435 Curriculum at the University of Southern California.
 
 
 
